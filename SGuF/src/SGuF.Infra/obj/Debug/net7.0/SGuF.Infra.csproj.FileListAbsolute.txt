@@ -1,0 +1,12 @@
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\bin\Debug\net7.0\SGuF.Infra.deps.json
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\bin\Debug\net7.0\SGuF.Infra.dll
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\bin\Debug\net7.0\SGuF.Infra.pdb
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\SGuF.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\SGuF.Infra.AssemblyInfoInputs.cache
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\SGuF.Infra.AssemblyInfo.cs
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\SGuF.Infra.csproj.CoreCompileInputs.cache
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\SGuF.Infra.sourcelink.json
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\SGuF.Infra.dll
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\refint\SGuF.Infra.dll
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\SGuF.Infra.pdb
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Infra\obj\Debug\net7.0\ref\SGuF.Infra.dll

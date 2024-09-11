@@ -1,0 +1,5 @@
+autenticação(administrador e usuário(upload e baixar, remover))
+upload de imagem(dimunir o tamanho da imagem)
+mysql
+relatório dos últimos acessos
+remoçao automatica(após 1 mes)
