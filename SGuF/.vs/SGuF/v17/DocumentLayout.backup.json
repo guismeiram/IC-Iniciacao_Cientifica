@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\enities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\enities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\enities\\userlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\enities\\userlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.application\\sguf.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\sguf.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\enities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\enities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\enities\\userlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\enities\\userlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\repository\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\repository\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\repository\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\repository\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\enities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\enities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\common\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\common\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\mapping\\appusermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\mapping\\appusermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\mapping\\userlikemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\mapping\\userlikemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\mapping\\photomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\mapping\\photomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\context\\sgufdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\context\\sgufdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\sguf.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\sguf.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3734F5A9-342C-4D9F-AA97-345B0E16A915}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,84 +70,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Class1.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Class1.cs",
-              "RelativeToolTip": "src\\SGuF.Infra\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:13:21.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Photo.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Photo.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\Photo.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Photo.cs",
-              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\Photo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:09:31.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserLike.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\UserLike.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\UserLike.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\UserLike.cs",
-              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\UserLike.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:08:45.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
-              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:08:18.456Z",
+              "Title": "SGuF.Application",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Application\\SGuF.Application.csproj",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\SGuF.Application.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Application\\SGuF.Application.csproj",
+              "RelativeToolTip": "src\\SGuF.Application\\SGuF.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T00:11:59.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAFAAAAAAAAAA==",
+              "Title": "PhotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:06:30.893Z",
+              "WhenOpened": "2024-09-12T00:08:52.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SGuF.Domain",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\SGuF.Domain.csproj",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\SGuF.Domain.csproj",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\SGuF.Domain.csproj",
-              "RelativeToolTip": "src\\SGuF.Domain\\SGuF.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-11T20:58:05.769Z",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:08:33.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\UoW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\UoW\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\UoW\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\UoW\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:08:10.1Z",
               "EditorCaption": ""
             },
             {
@@ -132,7 +138,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:08:18.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLike.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\UserLike.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\UserLike.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\UserLike.cs",
+              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\UserLike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:08:45.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Photo.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\Photo.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Photo.cs",
+              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\Photo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:09:31.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUserMapping.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\AppUserMapping.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Mapping\\AppUserMapping.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\AppUserMapping.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\Mapping\\AppUserMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:06:54.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLikeMapping.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\UserLikeMapping.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Mapping\\UserLikeMapping.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\UserLikeMapping.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\Mapping\\UserLikeMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:06:33.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:06:30.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhotoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\PhotoMapping.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Mapping\\PhotoMapping.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\PhotoMapping.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\Mapping\\PhotoMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:06:09.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SGuFDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Context\\SGuFDbContext.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Context\\SGuFDbContext.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Context\\SGuFDbContext.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\Context\\SGuFDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:05:40.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SGuF.Infra",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\SGuF.Infra.csproj",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\SGuF.Infra.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\SGuF.Infra.csproj",
+              "RelativeToolTip": "src\\SGuF.Infra\\SGuF.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T00:04:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SGuF.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\SGuF.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\SGuF.Domain\\SGuF.Domain.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\SGuF.Domain.csproj",
+              "RelativeToolTip": "src\\SGuF.Domain\\SGuF.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T20:58:05.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Web\\Program.cs",
               "RelativeDocumentMoniker": "src\\SGuF.Web\\Program.cs",
@@ -140,8 +276,7 @@
               "RelativeToolTip": "src\\SGuF.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T20:57:48.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T20:57:48.874Z"
             }
           ]
         }

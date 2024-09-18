@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SGuF.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cac34acd31d8e6457251ae29b4f0bb5cd19c4a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cce572b981a98f2eaf50a2e9cfb76b9ae370f58a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SGuF.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SGuF.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

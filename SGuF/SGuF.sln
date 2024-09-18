@@ -21,6 +21,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGuF.Application", "src\SGu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SGuF.Web", "src\SGuF.Web\SGuF.Web.csproj", "{3734F5A9-342C-4D9F-AA97-345B0E16A915}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sql", "sql", "{0A96B2A6-991F-4C86-84DF-E5BB3A7F1AAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{36FCFD6C-31F4-4C96-B6C3-33947633BADD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{188B402E-F937-4FEF-BF37-8FAD6C62CB59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

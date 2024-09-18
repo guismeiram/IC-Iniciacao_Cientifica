@@ -1,0 +1,3 @@
+- Utilizar banco de dados mysql
+- Xampp para utilizar localhost e mysql 
+- Configurar os dados da fotos no padrão correto
