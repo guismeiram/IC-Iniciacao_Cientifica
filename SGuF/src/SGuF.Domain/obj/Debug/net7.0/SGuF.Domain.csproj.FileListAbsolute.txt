@@ -1,6 +1,7 @@
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\bin\Debug\net7.0\SGuF.Domain.deps.json
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\bin\Debug\net7.0\SGuF.Domain.dll
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\bin\Debug\net7.0\SGuF.Domain.pdb
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.csproj.AssemblyReference.cache
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.AssemblyInfoInputs.cache
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.AssemblyInfo.cs
@@ -10,3 +11,15 @@ C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\obj\Debug\net
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\obj\Debug\net7.0\refint\SGuF.Domain.dll
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.pdb
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Domain\obj\Debug\net7.0\ref\SGuF.Domain.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\bin\Debug\net7.0\SGuF.Domain.deps.json
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\bin\Debug\net7.0\SGuF.Domain.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\bin\Debug\net7.0\SGuF.Domain.pdb
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.csproj.AssemblyReference.cache
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.AssemblyInfoInputs.cache
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.AssemblyInfo.cs
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\refint\SGuF.Domain.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\SGuF.Domain.pdb
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Domain\obj\Debug\net7.0\ref\SGuF.Domain.dll

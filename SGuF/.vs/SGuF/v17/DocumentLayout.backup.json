@@ -1,66 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\",
+  "WorkspaceRootPath": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.application\\sguf.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\sguf.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\controllers\\photocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\enities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\enities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\enities\\userlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\enities\\userlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\repository\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\repository\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\repository\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.infra\\repository\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\repository\\base\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.infra\\repository\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\repository\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\enities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\enities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\photo\\command\\createphoto\\createphotocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\photo\\command\\createphoto\\createphotocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\common\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\common\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\photo\\command\\createphoto\\createphotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\photo\\command\\createphoto\\createphotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\mapping\\appusermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\mapping\\appusermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\mapping\\userlikemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\mapping\\userlikemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\mapping\\photomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\mapping\\photomapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\context\\sgufdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\context\\sgufdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\sguf.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\sguf.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.infra\\sguf.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{91C8A1AE-432B-4C42-96F7-FF32A1638404}|src\\SGuF.Infra\\SGuF.Infra.csproj|solutionrelative:src\\sguf.infra\\sguf.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\views\\photo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\views\\photo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3734F5A9-342C-4D9F-AA97-345B0E16A915}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3734F5A9-342C-4D9F-AA97-345B0E16A915}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\views\\photo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\views\\photo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|c:\\users\\guism\\desktop\\inicia\u00E7\u00E3o cientifica\\sguf\\src\\sguf.domain\\sguf.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0ED69136-1C33-4D52-A680-456B0027FC47}|src\\SGuF.Domain\\SGuF.Domain.csproj|solutionrelative:src\\sguf.domain\\sguf.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\views\\photo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\views\\photo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\views\\photo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\views\\photo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\photo\\command\\deletephoto\\deletephotocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\photo\\command\\deletephoto\\deletephotocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\photo\\queries\\getphoto\\getphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\photo\\queries\\getphoto\\getphoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\photo\\queries\\getphoto\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\photo\\queries\\getphoto\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\photo\\queries\\getphotolist\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\photo\\queries\\getphotolist\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\photo\\queries\\getphotolist\\getphotolistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\photo\\queries\\getphotolist\\getphotolistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\sguf.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\sguf.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6BF262-92FF-470E-9A25-0DC5D6B95941}|src\\SGuF.Web\\SGuF.Web.csproj|solutionrelative:src\\sguf.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\common\\interfaces\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\common\\interfaces\\base\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|c:\\users\\guism\\desktop\\sguf\\vers\u00E3o_1\\sguf\\src\\sguf.application\\common\\interfaces\\repositories\\iphotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA41973D-1813-4390-BD65-73DC459F4F3E}|src\\SGuF.Application\\SGuF.Application.csproj|solutionrelative:src\\sguf.application\\common\\interfaces\\repositories\\iphotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,60 +114,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SGuF.Application",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Application\\SGuF.Application.csproj",
-              "RelativeDocumentMoniker": "src\\SGuF.Application\\SGuF.Application.csproj",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Application\\SGuF.Application.csproj",
-              "RelativeToolTip": "src\\SGuF.Application\\SGuF.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-12T00:11:59.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PhotoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
-              "RelativeToolTip": "src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T00:08:52.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
-              "RelativeToolTip": "src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T00:08:33.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\UoW\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\UoW\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\UoW\\UnitOfWork.cs",
-              "RelativeToolTip": "src\\SGuF.Infra\\UoW\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T00:08:10.1Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -138,145 +130,341 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
-              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\Identity\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PhotoController.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Controllers\\PhotoController.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Controllers\\PhotoController.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Controllers\\PhotoController.cs",
+              "RelativeToolTip": "src\\SGuF.Web\\Controllers\\PhotoController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:08:18.456Z",
+              "WhenOpened": "2024-10-15T02:45:43.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePhotoDto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Command\\CreatePhoto\\CreatePhotoDto.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Photo\\Command\\CreatePhoto\\CreatePhotoDto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Command\\CreatePhoto\\CreatePhotoDto.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Photo\\Command\\CreatePhoto\\CreatePhotoDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:52:57.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\Repository\\PhotoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:17:18.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserLike.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\UserLike.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\UserLike.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\UserLike.cs",
-              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\UserLike.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
+              "RelativeToolTip": "src\\SGuF.Infra\\Repository\\Base\\Repository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA9wCsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:08:45.179Z",
+              "WhenOpened": "2024-10-15T03:16:41.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Photo.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Photo.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Enities\\Photo.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Enities\\Photo.cs",
-              "RelativeToolTip": "src\\SGuF.Domain\\Enities\\Photo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBQAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:09:31.483Z",
+              "WhenOpened": "2024-10-28T17:40:00.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePhotoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Command\\CreatePhoto\\CreatePhotoCommand.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Photo\\Command\\CreatePhoto\\CreatePhotoCommand.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Command\\CreatePhoto\\CreatePhotoCommand.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Photo\\Command\\CreatePhoto\\CreatePhotoCommand.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:52:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "src\\SGuF.Web\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:44:29.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppUserMapping.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\AppUserMapping.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Mapping\\AppUserMapping.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\AppUserMapping.cs",
-              "RelativeToolTip": "src\\SGuF.Infra\\Mapping\\AppUserMapping.cs",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Common\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T00:06:54.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserLikeMapping.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\UserLikeMapping.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Mapping\\UserLikeMapping.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\UserLikeMapping.cs",
-              "RelativeToolTip": "src\\SGuF.Infra\\Mapping\\UserLikeMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T00:06:33.687Z",
+              "WhenOpened": "2024-10-28T17:48:27.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "src\\SGuF.Domain\\Common\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "src\\SGuF.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T21:06:30.893Z",
+              "WhenOpened": "2024-10-28T18:13:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SGuF.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\SGuF.Application.csproj",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\SGuF.Application.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\SGuF.Application.csproj",
+              "RelativeToolTip": "src\\SGuF.Application\\SGuF.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T15:14:03.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "PhotoMapping.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\PhotoMapping.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Mapping\\PhotoMapping.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Mapping\\PhotoMapping.cs",
-              "RelativeToolTip": "src\\SGuF.Infra\\Mapping\\PhotoMapping.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T00:06:09.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SGuFDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Context\\SGuFDbContext.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\Context\\SGuFDbContext.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\Context\\SGuFDbContext.cs",
-              "RelativeToolTip": "src\\SGuF.Infra\\Context\\SGuFDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T00:05:40.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SGuF.Infra",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\SGuF.Infra.csproj",
-              "RelativeDocumentMoniker": "src\\SGuF.Infra\\SGuF.Infra.csproj",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Infra\\SGuF.Infra.csproj",
-              "RelativeToolTip": "src\\SGuF.Infra\\SGuF.Infra.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-12T00:04:08.974Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Photo\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Views\\Photo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Photo\\Create.cshtml",
+              "RelativeToolTip": "src\\SGuF.Web\\Views\\Photo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:45:35.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "SGuF.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\SGuF.Domain.csproj",
-              "RelativeDocumentMoniker": "src\\SGuF.Domain\\SGuF.Domain.csproj",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Domain\\SGuF.Domain.csproj",
-              "RelativeToolTip": "src\\SGuF.Domain\\SGuF.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-11T20:58:05.769Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\SGuF.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:49:46.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Photo\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Views\\Photo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Photo\\Index.cshtml",
+              "RelativeToolTip": "src\\SGuF.Web\\Views\\Photo\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwDMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T03:03:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Photo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Views\\Photo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Photo\\Delete.cshtml",
+              "RelativeToolTip": "src\\SGuF.Web\\Views\\Photo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T23:33:42.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeletePhotoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Command\\DeletePhoto\\DeletePhotoCommand.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Photo\\Command\\DeletePhoto\\DeletePhotoCommand.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Command\\DeletePhoto\\DeletePhotoCommand.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Photo\\Command\\DeletePhoto\\DeletePhotoCommand.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIA0wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:16:28.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetPhoto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Queries\\GetPhoto\\GetPhoto.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Photo\\Queries\\GetPhoto\\GetPhoto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Queries\\GetPhoto\\GetPhoto.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Photo\\Queries\\GetPhoto\\GetPhoto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:02:59.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhotoDto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Queries\\GetPhoto\\PhotoDto.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Photo\\Queries\\GetPhoto\\PhotoDto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Queries\\GetPhoto\\PhotoDto.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Photo\\Queries\\GetPhoto\\PhotoDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:02:44.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Web\\Program.cs",
-              "RelativeDocumentMoniker": "src\\SGuF.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\guism\\Desktop\\INICIA\u00C7\u00C3O CIENTIFICA\\SGuF\\src\\SGuF.Web\\Program.cs",
-              "RelativeToolTip": "src\\SGuF.Web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Photo\\Details.cshtml",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Views\\Photo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Views\\Photo\\Details.cshtml",
+              "RelativeToolTip": "src\\SGuF.Web\\Views\\Photo\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T15:18:01.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhotoDto.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Queries\\GetPhotoList\\PhotoDto.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Photo\\Queries\\GetPhotoList\\PhotoDto.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Queries\\GetPhotoList\\PhotoDto.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Photo\\Queries\\GetPhotoList\\PhotoDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T20:57:48.874Z"
+              "WhenOpened": "2024-10-15T15:03:01.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetPhotoListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Queries\\GetPhotoList\\GetPhotoListQuery.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Photo\\Queries\\GetPhotoList\\GetPhotoListQuery.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Photo\\Queries\\GetPhotoList\\GetPhotoListQuery.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Photo\\Queries\\GetPhotoList\\GetPhotoListQuery.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:02:31.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SGuF.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\SGuF.Web.csproj",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\SGuF.Web.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\SGuF.Web.csproj",
+              "RelativeToolTip": "src\\SGuF.Web\\SGuF.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T15:15:00.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\appsettings.json",
+              "RelativeToolTip": "src\\SGuF.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T05:17:50.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Program.cs",
+              "RelativeToolTip": "src\\SGuF.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:17:54.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Web\\Startup.cs",
+              "RelativeToolTip": "src\\SGuF.Web\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:17:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPhotoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Common\\Interfaces\\Repositories\\IPhotoRepository.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Common\\Interfaces\\Repositories\\IPhotoRepository.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Common\\Interfaces\\Repositories\\IPhotoRepository.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Common\\Interfaces\\Repositories\\IPhotoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T04:57:28.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Common\\Interfaces\\Base\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\SGuF.Application\\Common\\Interfaces\\Base\\IRepository.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\SGuF\\vers\u00E3o_1\\SGuF\\src\\SGuF.Application\\Common\\Interfaces\\Base\\IRepository.cs",
+              "RelativeToolTip": "src\\SGuF.Application\\Common\\Interfaces\\Base\\IRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAzwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:26:37.417Z",
+              "EditorCaption": ""
             }
           ]
         }

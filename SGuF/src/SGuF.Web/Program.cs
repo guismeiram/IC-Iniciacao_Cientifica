@@ -1,6 +1,4 @@
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+using SGuF.Web;
 
-app.MapGet("/", () => "Hello World!");
+var builder = WebApplication.CreateBuilder(args).UseStatup<Startup>();
 
-app.Run();

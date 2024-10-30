@@ -1,0 +1,5 @@
+-Demonstrei projeto ao professor ;
+-Validei o banco de dados;
+-Expliquei como vai funcionar;
+
+-Metas Fazer upload de imagem até outubro;

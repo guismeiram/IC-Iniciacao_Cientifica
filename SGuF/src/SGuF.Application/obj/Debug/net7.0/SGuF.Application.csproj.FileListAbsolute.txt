@@ -1,12 +1,31 @@
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Application.deps.json
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Application.dll
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Application.pdb
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Domain.dll
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Domain.pdb
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.csproj.AssemblyReference.cache
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.AssemblyInfoInputs.cache
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.AssemblyInfo.cs
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.csproj.CoreCompileInputs.cache
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.sourcelink.json
+C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.App.505E1F7D.Up2Date
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.dll
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\refint\SGuF.Application.dll
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.pdb
 C:\Users\guism\Desktop\INICIAÇÃO CIENTIFICA\SGuF\src\SGuF.Application\obj\Debug\net7.0\ref\SGuF.Application.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Application.deps.json
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Application.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Application.pdb
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Domain.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\bin\Debug\net7.0\SGuF.Domain.pdb
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.csproj.AssemblyReference.cache
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.AssemblyInfoInputs.cache
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.AssemblyInfo.cs
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.csproj.CoreCompileInputs.cache
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.App.505E1F7D.Up2Date
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\refint\SGuF.Application.dll
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\SGuF.Application.pdb
+C:\Users\guism\Desktop\SGuF\versão_1\SGuF\src\SGuF.Application\obj\Debug\net7.0\ref\SGuF.Application.dll
